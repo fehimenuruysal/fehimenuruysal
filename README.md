@@ -6,9 +6,10 @@
 - 🔭 I’m currently working on AI
 - 🌱 I’m currently learning Deep Learning
 - 🎯 My goal is to build a career in **AI Engineering**
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fehimenuruysal&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact&style=plastic" alt="fehimenuruysal" height="150" width="350" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=fehimenuruysal&hide=prs,issues&include_all_commits=true&show_icons=true&theme=vision-friendly-dark&locale=en&style=plastic" alt="fehimenuruysal" height="150" width="450"/>
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fehimenuruysal&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact&style=plastic" alt="fehimenuruysal" height="150" width="350" />
+<img src="https://github-readme-stats.vercel.app/api?username=fehimenuruysal&hide=prs,issues&include_all_commits=true&show_icons=true&theme=vision-friendly-dark&locale=en&style=plastic" alt="fehimenuruysal" height="150" width="450"/>
+</p>
 
 <hr>
 
