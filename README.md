@@ -7,6 +7,13 @@
 - 🔭 I’m currently working on AI
 - 🌱 I’m currently learning Deep Learning
 - 🎯 My goal is to build a career in **AI Engineering**
+<br>
+<h3 align="center">Statistics</h3>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fehimenuruysal&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact&style=plastic" alt="fehimenuruysal" height="150" width="350" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=fehimenuruysal&hide=prs,issues&include_all_commits=true&show_icons=true&theme=vision-friendly-dark&locale=en&style=plastic" alt="fehimenuruysal" height="150" width="450"/>
+</p>
+<br>
 <h3 align="center"> Connect with Me </h3>
 <br>
 
@@ -14,10 +21,3 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fehimenuruysall)
 [![Kaggle Badge](https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/fehimenuruysal)
 [![Mail Badge](https://img.shields.io/badge/fehimenuruysall@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:fehimenuruysall@gmail.com)](mailto:fehimenuruysall@gmail.com)
-
-<br>
-<h3 align="center">Statistics</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fehimenuruysal&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact&style=plastic" alt="fehimenuruysal" height="150" width="350" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=fehimenuruysal&hide=prs,issues&include_all_commits=true&show_icons=true&theme=vision-friendly-dark&locale=en&style=plastic" alt="fehimenuruysal" height="150" width="450"/>
-</p>
