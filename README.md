@@ -4,9 +4,9 @@
 <!--
 **fehimenuruysal/fehimenuruysal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-  - 🔭 I’m currently working on AI
-  - 🌱 I’m currently learning Deep Learning
-  - 🎯 My goal is to build a career in **AI Engineering**
+  - 🔭 I’m currently working on AI 
+  - 🌱 I’m currently learning SAP ABAP
+  - 🎯 My goal is to build a career in **SAP ABAP Specialist and AI Engineer**
 <hr>
 
 <img src="https://github-readme-stats.vercel.app/api?username=fehimenuruysal&hide=prs,issues&include_all_commits=true&show_icons=true&theme=vision-friendly-dark&locale=en&style=plastic" alt="fehimenuruysal" height="150" width="1000"/>
